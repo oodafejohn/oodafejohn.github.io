@@ -3,7 +3,8 @@ data analyst portfolio
 ### Education
 BA(Hons) History and International Studies,
 Oct 2019 – Sept 2023
-MSC Applied Artificial Intelligence and Data Analytics,
+
+MSC Applied Artificial Intelligence and Data Analytics, 
 Sept 2025 - Dec 2026
 ### Work Experience
 Data Anlayst
